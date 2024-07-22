@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hookstore>
+    <hook type="lang">
+        <value>en_GB</value>
+        <value>fr_FR</value>
+		<value>pt_BR</value>
+    </hook>
+    <hook type="cdentry">
+        <identifier>cd_wingroups</identifier>
+        <translation>27500</translation>
+        <category>other</category>
+        <available>wingroups</available>
+    </hook>
+</hookstore>
